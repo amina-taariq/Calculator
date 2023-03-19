@@ -1,0 +1,22 @@
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\haroon tradesr\OneDrive\Documents\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\BSCS\5th Semester\APT(Advance Programming Techniques)\Programs\Calculator\Calculator\obj\Debug\Calculator.pdb
